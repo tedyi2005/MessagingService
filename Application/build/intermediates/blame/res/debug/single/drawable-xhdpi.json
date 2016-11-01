@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\tkidanne\\AndroidStudioProjects\\MessagingService\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\notification_icon.png",
+        "source": "C:\\Users\\tkidanne\\AndroidStudioProjects\\MessagingService\\Application\\src\\main\\res\\drawable-xhdpi\\notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tkidanne\\AndroidStudioProjects\\MessagingService\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\android_contact.png",
+        "source": "C:\\Users\\tkidanne\\AndroidStudioProjects\\MessagingService\\Application\\src\\main\\res\\drawable-xhdpi\\android_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\tkidanne\\AndroidStudioProjects\\MessagingService\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\tkidanne\\AndroidStudioProjects\\MessagingService\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
